@@ -1,14 +1,14 @@
 {
   "deploy_settings": {
     "default": {
-      "skill_id": "",
+      "skill_id": "amzn1.ask.skill.88011b82-a0bc-423b-aff9-858bbfe69c3b",
       "was_cloned": false,
       "merge": {
         "skillManifest": {
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "what_name_you_want_to_name_the_lambda"
+                "uri": "gordon-cooking"
               }
             }
           }
